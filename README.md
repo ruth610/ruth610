@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruth610" alt="ruth610" /></a> </p>
 
-- 🔭 I’m currently working on [Artshop project](https://github.com/ruth610/Art_Shop)
+- 🔭 I’m currently working on [House Rental Project](https://github.com/ruth610/house_rental_backend)
 
 - 🌱 I’m currently learning **tailwind, flutter**
 
