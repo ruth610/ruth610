@@ -8,6 +8,7 @@
 - 💬 Ask me about **react, javascript, expressjs**
 
 - 📫 How to reach me **ruthambaw610@gmail.com**
+- My Resume [view](https://drive.google.com/file/d/1RePJ2OqPjzOwsc2SySGKdza_PHAsFSQm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
