@@ -1,15 +1,30 @@
-<h1 align="center">Hi 👋, I'm Ruth Ambaw</h1>
-<h3 align="center">A passionate full stack web developer from Ethiopia</h3>
+# Hi there, I'm Ruth 👋 
 
-- 🔭 I’m currently working on [House Rental Project](https://github.com/ruth610/house_rental_backend)
+### ⚡ Full Stack Web Developer | System Optimization Specialist
 
-- 🌱 I’m currently learning **tailwind, flutter**
+I am a passionate developer from Ethiopia focused on building scalable web applications and optimizing complex internal systems. Most recently, I've been engineering **analytics-driven chat systems** and HR recruitment logic at **Askuala Link**.
 
-- 💬 Ask me about **react, javascript, expressjs**
+---
 
-- 📫 How to reach me **ruthambaw610@gmail.com**
+### 🛠️ Tech Stack & Tools
 
-<h3 align="left">Connect with me:</h3>
+- **Frontend:** React, Tailwind CSS (Currently Learning)
+- **Backend:** Node.js, Express.js
+- **Mobile:** Flutter (Currently Learning)
+- **Languages:** JavaScript, Dart
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me:
+- 📧 **Email:** [ruthambaw610@gmail.com](mailto:ruthambaw610@gmail.com)
+- 💬 Ask me about **React, JavaScript, and Express.js**
+- ⚡ Fun fact: I love turning complex data into intuitive, chat-based interfaces.
 <p align="left">
 <a href="https://linkedin.com/in/ruth-ambaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruth-ambaw" height="30" width="40" /></a>
 <a href="https://instagram.com/ruth_a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruth_a6" height="30" width="40" /></a>
