@@ -9,21 +9,21 @@ I am a passionate developer from Ethiopia focused on building scalable web appli
 ### 🛠️ Tech Stack & Tools
 
 - **Frontend:** React, Tailwind CSS (Currently Learning)
-- **Backend:** Node.js, Express.js
+- **Backend:** Node.js, Express.js, NestJs, Laravel,Django
 - **Mobile:** Flutter (Currently Learning)
 - **Languages:** JavaScript, Dart
 
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruth610&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruth610&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect with me:
 - 📧 **Email:** [ruthambaw610@gmail.com](mailto:ruthambaw610@gmail.com)
-- 💬 Ask me about **React, JavaScript, and Express.js**
+- 💬 Ask me about **Express.js/Nodejs,Netsjs, React, JavaScript**
 - ⚡ Fun fact: I love turning complex data into intuitive, chat-based interfaces.
 <p align="left">
 <a href="https://linkedin.com/in/ruth-ambaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruth-ambaw" height="30" width="40" /></a>
