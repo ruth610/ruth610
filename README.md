@@ -4,22 +4,12 @@
 
 I am a passionate developer from Ethiopia focused on building scalable web applications and optimizing complex internal systems. Most recently, I've been engineering **analytics-driven chat systems** and HR recruitment logic at **Askuala Link**.
 
----
-
 ### 🛠️ Tech Stack & Tools
 
 - **Frontend:** React, Tailwind CSS (Currently Learning)
 - **Backend:** Node.js, Express.js, NestJs, Laravel,Django
 - **Mobile:** Flutter (Currently Learning)
 - **Languages:** JavaScript, Dart
-
----
-
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruth610&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruth610&layout=compact&theme=radical)
-
----
 
 ### 📫 Connect with me:
 - 📧 **Email:** [ruthambaw610@gmail.com](mailto:ruthambaw610@gmail.com)
