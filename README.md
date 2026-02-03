@@ -6,7 +6,7 @@ I am a passionate developer from Ethiopia focused on building scalable web appli
 
 ### 🛠️ Tech Stack & Tools
 
-- **Frontend:** React, Tailwind CSS (Currently Learning)
+- **Frontend:** React, Tailwind CSS
 - **Backend:** Node.js, Express.js, NestJs, Laravel,Django
 - **Mobile:** Flutter (Currently Learning)
 - **Languages:** JavaScript, Dart
